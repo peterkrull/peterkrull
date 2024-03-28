@@ -5,3 +5,5 @@ I study Electrical Engineering, with a special focus on control theory, includin
 - 🔭 I’m currently working on a Rust-based flight controller: **[Holsatus Flight](https://github.com/holsatus/holsatus-flight/)**
 - 🌱 I’m currently learning about light weight MPC implementations (see **[tinympc-rs](https://github.com/peterkrull/tinympc-rs/)**)
 - 👯 I’m looking to collaborate on GNC projects, primarily based in Rust 🦀
+
+Support Ukraine 🇺🇦 🕊
